@@ -7,9 +7,9 @@ This project uses Power BI Desktop and Excel to help businesses prevent customer
    ![image](https://github.com/user-attachments/assets/d2069d12-adf8-4429-a0a5-ee0317e54955)
 
 **Benefits:**
-Reduce customer loss: Identify and help customers at risk to keep them longer.
-Improve customer satisfaction: Understand customer needs better for better service.
-Make data-driven decisions: Use insights to make better choices for keeping customers happy. Customer Risk Analysis
+- Reduce customer loss: Identify and help customers at risk to keep them longer.
+- Improve customer satisfaction: Understand customer needs better for better service.
+- Make data-driven decisions: Use insights to make better choices for keeping customers happy. Customer Risk Analysis
 ![image](https://github.com/user-attachments/assets/5c6eaff3-e57b-40a7-930a-952414c513f1)
 
 
